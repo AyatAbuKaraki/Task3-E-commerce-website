@@ -1,0 +1,20 @@
+.breadcrumbs-area {
+	 background: rgba(0, 0, 0, 0) url("../images/breadcrumb2.jpg") no-repeat scroll center;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 400px;
+}
+
+.product-thumbnail img{
+	width: 150px;
+	height: 150px;
+}
+
+.single-product:hover .product-img img {
+  box-shadow: 0 0 10px 6px rgba(0, 0, 0, 0.13);
+}
+ /*#01A6A9;*/
+
+.service-area {
+    background: url(../images/support.jpg) no-repeat fixed center center / cover;
+}
