@@ -12,7 +12,7 @@ NOTE: This is Slider style file. All Slider related style included in this file.
 --------------------------------------*/
 
 .slider-area > img {
-  height: 100vh;
+  height: 100%;
   width: 100%;
 }
 .slider-height {
